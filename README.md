@@ -4,7 +4,7 @@ This repo showcases the Java DBS that my team and I developed during my senior y
 ## Functions
  * Connect to Postgres database that contains a polished yelp review dataset
  * Able to filter, query, and manage data
- * High customizablity and query options
+ * Highly customizable query options
  * Intuitive GUI
 
 ## Demo
