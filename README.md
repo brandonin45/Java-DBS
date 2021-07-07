@@ -9,5 +9,5 @@ This repo showcases the Java DBS that my team and I developed during my senior y
 
 ## Demo
 <p align="center">
-<img width="650" height="450" src="images/database.PNG">
+<img width="700" height="450" src="images/database.PNG">
 </p>
